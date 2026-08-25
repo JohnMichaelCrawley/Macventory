@@ -289,8 +289,7 @@ func userDesktopDirectory() (string, error) {
 
 // printHelp prints the main command help.
 func printHelp(output io.Writer) {
-	fmt.Fprintln(output, `Macventory creates a portable software inventory report for a Mac.
-
+	fmt.Fprint(output, `Macventory creates a portable software inventory report for a Mac.
 Usage:
     macventory <command> [options]
 

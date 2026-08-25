@@ -7,7 +7,7 @@ import (
 )
 
 // APP VERSION - single source of truth for the application version
-const VERSION = "development"
+const VERSION = "0.1.0"
 
 // Main
 func main() {
