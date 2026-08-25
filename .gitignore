@@ -7,3 +7,6 @@ Codebase/macventory
 # Generated inventory reports
 macventory-*.md
 Codebase/macventory-*.md
+
+# Release artifacts
+dist/
