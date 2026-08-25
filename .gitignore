@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Local Go build
+Codebase/macventory
+
+# Generated inventory reports
+macventory-*.md
+Codebase/macventory-*.md
